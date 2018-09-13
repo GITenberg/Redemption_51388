@@ -1,0 +1,27 @@
+_repo: Redemption_51388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Redemption'
+- GITenberg
+tableOfContents: Deliverance -- Israel -- The first-born -- The bondsman -- Ruth --
+  The spirit -- Anathoth -- The pit -- Atonement -- Atonement -- Forgiveness -- Purity
+  -- Restoration -- Heaven.
+title: Redemption
+url: http://www.gutenberg.org/ebooks/51388
